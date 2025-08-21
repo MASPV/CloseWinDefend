@@ -1,0 +1,3 @@
+使用前请先关闭安全中心的所有保护选项特别是防篡改，不然可能导致程序无法正常运行，关闭方法可以在B站或者网上搜到。
+本程序关闭WindowsDefend的方法参考B站UP主：红头发蓝胖子 
+视频链接：https://www.bilibili.com/video/BV1TTcBe2E9t/?share_source=copy_web&vd_source=7b4751da16f21d30e834f9dbee537222
